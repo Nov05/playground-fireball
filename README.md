@@ -31,3 +31,23 @@ https://2019.spaceappschallenge.org/locations/virtual-participation/
 JUDGING AND AWARDS  
 https://www.spaceappschallenge.org/about/judging/  
 
+# Project Description
+
+Fireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. The data source provides a chronological data summary of fireball and bolide events provided by U.S. Government sensors. Ground-based observers sometimes also witness these events at night, or much more rarely in daylight, as impressive atmospheric light displays. This data source is not meant to be a complete list of all fireball events. Only the brightest fireballs are noted.
+
+The project will work on data wrangling, analysis and visualization, build a regression model to recover the missing velocity data of some observations. All code is in Python. Libraries such as Numpy, Pandas, Pandas_Profiling, Matplotlib, Seaborn, Plotly, Colorlover, Scikit-Learning, Category_Encoders, etc. are used in the project. All data visualization and interactive plots demonstrated here are illustrated by Nov05. You can find all the source code in the "notebooks" folder of the github repo list below. To view the Plotly interactive plots, click on the button "Open in Colab" at the beginning of the notebooks (.ipynb files).
+
+# Fun Results
+
+#### Plotly 3D Interactive Globe
+
+<img src="https://github.com/Nov05/playground-fireball/blob/master/images/20191020_180700%203d%20globe%20by%20nov05.gif?raw=true">
+
+#### Plotly 2D Interactive World map
+
+<img src="https://github.com/Nov05/playground-fireball/blob/master/images/2019-10-20%2004_07_45-2019-10-19%20explore.ipynb%20-%20Colaboratory.png?raw=true" width=700>
+
+#### Plotly 3D Interactive Scatter Plot 
+
+<img src="https://github.com/Nov05/playground-fireball/blob/master/images/20191020_174628_3d%20scatter.gif?raw=true">
+

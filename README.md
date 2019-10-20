@@ -22,5 +22,8 @@ https://catalog.data.gov/dataset/fireball-and-bolide-reports
 
 Event Start： October 18th 12:00PM     
 Last Day： October 20th 11:59PM    
-https://2019.spaceappschallenge.org/locations/virtual-participation/  
+https://2019.spaceappschallenge.org/locations/virtual-participation/ 
+ 
+JUDGING AND AWARDS  
+https://www.spaceappschallenge.org/about/judging/  
 

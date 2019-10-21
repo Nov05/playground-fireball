@@ -1,6 +1,6 @@
 ﻿# playground-fireball
 
-This is a repository for **"Chasers of the Lost Data"** project.
+This is a repository for a **"Chasers of the Lost Data"** project.
 
 #### Project Page  
 

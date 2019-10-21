@@ -56,3 +56,14 @@ https://www.spaceappschallenge.org/about/judging/
 NASA’s All Sky Fireball Network    
 https://fireballs.ndc.nasa.gov/
 
+#### Code Snippets
+
+Source code of the 2D world map   
+https://gist.github.com/Nov05/5f25189e3ba65708ce81736f8f0b0f48
+
+Code to custom a color scale   
+https://gist.github.com/Nov05/b92e14c529514fb8a810d6b2755dd776  
+
+Random Forest and feature importance   
+https://gist.github.com/Nov05/de82e6db40ea9ee51ba0f9c19287d17f   
+

@@ -25,6 +25,9 @@ The project will work on data wrangling, analysis and visualization, build a reg
 
 <img src="https://github.com/Nov05/playground-fireball/blob/master/images/2019-10-20%2004_07_45-2019-10-19%20explore.ipynb%20-%20Colaboratory.png?raw=true" width=700>
 
+"Recover" the lost velocity data by using Random Forest 
+<img src="https://github.com/Nov05/playground-fireball/blob/master/images/2019-10-21%20predicted%20velocity.png?raw=true" width=700>  
+
 #### Plotly 3D Interactive Scatter Plot 
 
 <img src="https://github.com/Nov05/playground-fireball/blob/master/images/20191020_174628_3d%20scatter.gif?raw=true">
@@ -48,22 +51,18 @@ https://catalog.data.gov/dataset/fireball-and-bolide-reports
 
 Event Start： October 18th 12:00PM     
 Last Day： October 20th 11:59PM    
-https://2019.spaceappschallenge.org/locations/virtual-participation/ 
- 
+https://2019.spaceappschallenge.org/locations/virtual-participation/   
 JUDGING AND AWARDS  
-https://www.spaceappschallenge.org/about/judging/  
-
+https://www.spaceappschallenge.org/about/judging/    
 NASA’s All Sky Fireball Network    
 https://fireballs.ndc.nasa.gov/
 
 #### Code Snippets
 
 Source code of the 2D world map   
-https://gist.github.com/Nov05/5f25189e3ba65708ce81736f8f0b0f48
-
+https://gist.github.com/Nov05/5f25189e3ba65708ce81736f8f0b0f48  
 Code to custom a color scale   
-https://gist.github.com/Nov05/b92e14c529514fb8a810d6b2755dd776  
-
+https://gist.github.com/Nov05/b92e14c529514fb8a810d6b2755dd776    
 Random Forest and feature importance   
 https://gist.github.com/Nov05/de82e6db40ea9ee51ba0f9c19287d17f   
 

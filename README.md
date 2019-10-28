@@ -15,8 +15,9 @@ Fireballs and bolides are astronomical terms for exceptionally bright meteors th
 
 The project will work on data wrangling, analysis and visualization, build a regression model to recover the missing velocity data of some observations. All code is in Python. Libraries such as Numpy, Pandas, Pandas_Profiling, Matplotlib, Seaborn, Plotly, Colorlover, Scikit-Learning, Category_Encoders, etc. are used in the project. All data visualization and interactive plots demonstrated here are illustrated by Nov05. You can find all the source code in the "notebooks" folder of the github repo。 To view the Plotly interactive plots, click on the button **"Open in Colab"** at the beginning of the notebooks (.ipynb files).
 
-Or access the notebooks via the following links.
-[Plotly 3D Interactive Globe](https://colab.research.google.com/github/Nov05/playground-fireball/blob/master/notebooks/2019_10_19_Python_Plotly_3D_Globe.ipynb#scrollTo=Y-jkccTV0lRC&line=4&uniqifier=1)   
+Or access the notebooks via the following links.   
+[Plotly 3D Interactive Globe](https://colab.research.google.com/github/Nov05/playground-fireball/blob/master/notebooks/2019_10_19_Python_Plotly_3D_Globe.ipynb#scrollTo=Y-jkccTV0lRC)   
+[Plotly 2D Interactive World Map](https://colab.research.google.com/drive/1ax1GsbmNkCwGDank8XElh_okXLkaUDqq?authuser=1#scrollTo=oA9kan-5jkss)    
 
 # Fun Results
 
